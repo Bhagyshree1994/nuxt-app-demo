@@ -26,9 +26,9 @@
 @keyframes appear {
   0% {
     opacity: 0;
-    
-    
+   
   }
+  
 }
 
 
