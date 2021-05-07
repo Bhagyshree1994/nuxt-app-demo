@@ -16,6 +16,8 @@
       fill="#2F495E"
       
       
+      
+      
     />
   </svg>
 </template>
